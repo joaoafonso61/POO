@@ -1,9 +1,9 @@
 
 /**
- * Enumeration class Size - write a description of the enum class here
+ * Enumeration class Size - enumeração 
  * 
- * @author (your name here)
- * @version (version number or date here)
+ * @author João Afonso
+ * @version 1
  */
 public enum Size {
     SMALL(32, 36, "Pequeno",'S'),
